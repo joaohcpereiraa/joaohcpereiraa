@@ -9,9 +9,11 @@
 
 ## 👋 About Me
 
+<!-- career:about:start -->
 - 💻 Software Engineer graduated from **ISEP**, currently studying for an **MSc in Cybersecurity & System Administration**
 - 📍 Based in **Portugal** 🇵🇹
 - 🤝 Open to **opportunities** and **collaboration**
+<!-- career:about:end -->
 
 ## 📫 Get in Touch
 
